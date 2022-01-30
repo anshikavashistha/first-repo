@@ -1,2 +1,2 @@
 # first-repo
-sample repository
+prototype repository
